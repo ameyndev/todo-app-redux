@@ -4,13 +4,13 @@ This project is a basic To-Do application developed using ReactJS, showcasing pr
 
 **Setup Instructions:**
 Clone Repository:
-`git clone <repository_url>`
+``git clone <repository_url>``
 Navigate to Project Directory:
-`cd react-redux-todo-app`
+``cd react-redux-todo-app``
 Install Dependencies:
-`npm install`
+``npm install``
 Start Development Server:
-`npm start`
+``npm start``
 
 **Functionality:**
 * Add Task:Input a task into a text field and add it to the list.
